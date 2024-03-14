@@ -1,0 +1,58 @@
+[
+    {
+        "id" : "b01",
+        "title" : "Machine Learning Class",
+        "categories": "tech",
+        "content" : "I can't draw unless I practice. We practice how to draw by breaking thing into smaller shape, most thing are achievable. I can't think unless I draw out the idea",
+        "date": "2022-12-9 23:26"
+    },
+    {
+        "id" : "b02",
+        "title" : "Application to make booking",
+        "categories": "tech",
+        "content" : "Using a npm package call react-datetime-picker to create an appointment. useState hook, map, and passing props",
+        "date": "2022-12-10 11:39"
+    },
+    {
+        "id" : "b03",
+        "title" : "Full-stack app",
+        "categories": "tech",
+        "content" : "Only story that contain URL will have a button",
+        "date": "2022-12-10 11:39"
+    },
+    {
+        "id" : "b04",
+        "title" : "Art class",
+        "categories": "art",
+        "content" : "I can't draw unless I practice. We practice how to draw by breaking thing into smaller shape, most thing are achievable. I can't think unless I draw out the idea",
+        "date": "2022-12-9 23:26"
+    },
+    {
+        "id" : "b05",
+        "title" : "Meeting with client",
+        "categories": "other",
+        "content" : "A catch-up to define client's need",
+        "date": "2022-12-10 11:39"
+    },
+    {
+        "id" : "b06",
+        "title" : "Creative coding",
+        "categories": "art",
+        "content" : "A creative approach of learning code",
+        "date": "2022-12-15 11:39"
+    },
+    {
+        "id" : "b07",
+        "title" : "Interactive Design",
+        "categories": "art",
+        "content" : "Application to allow user interact with",
+        "date": "2022-12-15 01:39"
+    },
+    {
+        "id" : "b08",
+        "title" : "Marking",
+        "categories": "tech",
+        "content" : "Seeing someone art",
+        "date": "2022-12-15 01:39"
+    }
+]
